@@ -28,9 +28,7 @@
 **This week stats:**
 
 <!--START_SECTION:waka-->
-
 ```text
-No activity this week.
+No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
