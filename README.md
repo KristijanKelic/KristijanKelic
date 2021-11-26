@@ -28,4 +28,5 @@
 **This week stats:**
 
 <!--START_SECTION:waka-->
+```No stats this week```
 <!--END_SECTION:waka-->
