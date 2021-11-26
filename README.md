@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KristijanKelic.KristijanKelic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KristijanKelic)
 
 # Hi there 👋
 
