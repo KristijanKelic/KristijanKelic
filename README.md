@@ -28,5 +28,8 @@
 **This week stats:**
 
 <!--START_SECTION:waka-->
-```No stats this week```
+```text
+Markdown   4 mins          ████████████████▒░░░░░░░░   64.92 % 
+YAML       2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
+```
 <!--END_SECTION:waka-->
