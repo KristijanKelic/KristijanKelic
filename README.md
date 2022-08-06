@@ -30,10 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 1 min     ██████████████████░░░░░░░   72.36 %
-JavaScript   44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
