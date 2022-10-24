@@ -12,7 +12,6 @@
 [![Website Badge](https://img.shields.io/badge/website-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://kristijankelic.vercel.app/)
 [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/kristijankelic/)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KristijanKelic/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kristijankelic/)
 
 <br/>
 
