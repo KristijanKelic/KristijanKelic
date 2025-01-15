@@ -11,9 +11,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristijankelic/)
 [![Website Badge](https://img.shields.io/badge/website-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://kristijankelic.vercel.app/)
 [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/kristijankelic/)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KristijanKelic/)
 [![daily.dev](https://img.shields.io/badge/daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/kkelic)
 [![roadmap](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/kkelic)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/KristijanKelic/)
 
 <br/>
 
