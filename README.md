@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-## I'm <a href="https://kristijankelic.vercel.app" target="_blank">Kristijan Kelic</a>, Software Engineer from Croatia.
+## I'm <a href="https://kkelic.vercel.app" target="_blank">Kristijan Kelic</a>, Software Engineer from Croatia.
 
 <br/>
 
