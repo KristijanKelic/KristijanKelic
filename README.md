@@ -9,7 +9,7 @@
 **Find me on:**
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristijankelic/)
-[![Website Badge](https://img.shields.io/badge/website-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://kristijankelic.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/website-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://krisitjankelic.com)
 [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/kristijankelic/)
 [![daily.dev](https://img.shields.io/badge/daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/kkelic)
 [![roadmap](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/kkelic)
