@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KristijanKelic)
-
 # Hi there 👋
 
 ## I'm <a href="https://kristijankelic.com" target="_blank">Kristijan Kelic</a>, Software Engineer from Croatia.
